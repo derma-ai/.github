@@ -1,3 +1,0 @@
-# derma-AI
-
-new
